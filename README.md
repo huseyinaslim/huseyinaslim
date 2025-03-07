@@ -1,10 +1,5 @@
 # <div align="center">👋 Hello, I'm Hüseyin Aslım</div>
-
-<div align="right">
-  <a href="README.md">🇬🇧 English</a>
-  <a href="README-TR.md">🇹🇷 Türkçe</a> • 
-</div>
-
+ 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=2E98FF&center=true&vCenter=true&random=false&width=600&height=100&lines=Full-Stack+Web+Developer" alt="Typing SVG" />
 </div>
@@ -116,8 +111,3 @@
 ⭐️ [huseyinaslim](https://github.com/huseyinaslim) 
 
 [Turkish Version / Türkçe Versiyon](README.md)
-
-<div align="right">
-  <a href="README.md">🇹🇷 Türkçe</a> • 
-  <a href="README-EN.md">🇬�� English</a>
-</div> 
